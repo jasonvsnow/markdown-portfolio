@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. [ ] Dogs
+2. [ ] Computers
+   1. [ ] programing
+3. [ ] Dice
